@@ -2,3 +2,15 @@
   background-color: hsl(349, 82%, 85%);
   font-family: Verdena, DejaVu Sans, sans-serif;
 }
+
+#one {
+    color: #0000ff;
+    font-size: 38px;
+}
+
+#another{
+    background-color: rgb(133, 243, 127);
+    font-size: 24px;
+    font-weight: bold;
+}
+
